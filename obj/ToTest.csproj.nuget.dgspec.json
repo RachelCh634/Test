@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\תרגול\\ToTest\\ToTest.csproj": {}
+    "C:\\Users\\User\\Documents\\תרגול\\New\\Test\\ToTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\תרגול\\ToTest\\ToTest.csproj": {
+    "C:\\Users\\User\\Documents\\תרגול\\New\\Test\\ToTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\תרגול\\ToTest\\ToTest.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\תרגול\\New\\Test\\ToTest.csproj",
         "projectName": "ToTest",
-        "projectPath": "C:\\Users\\User\\Documents\\תרגול\\ToTest\\ToTest.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\תרגול\\New\\Test\\ToTest.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\תרגול\\ToTest\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\תרגול\\New\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
